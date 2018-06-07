@@ -5,7 +5,10 @@
   "repository": "https://github.com/zxwanderer/zx-electron.git",
   "author": "zxwanderer@nomail.me",
   "license": "MIT",
-  "dependencies": {
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
     "electron": "^2.0.2"
   }
 }
